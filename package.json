@@ -48,7 +48,7 @@
     "webcola": "^3.3.6"
   },
   "devDependencies": {
-    "aurelia-tools": "^1.0.0",
+    "aurelia-tools": "^2.0.0",
     "cross-env": "^5.0.1",
     "eslint": "^4.9.0",
     "eslint-config-airbnb-base": "^12.1.0",
